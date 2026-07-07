@@ -14,3 +14,4 @@ Full-stack developer who ships — web apps end-to-end, with AI baked in where i
 [LinkedIn](your-url) · asitkg03@gmail.com
 
 *Currently open to SDE / full-stack roles.*
+![Asit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asitgiri1234&show_icons=true&theme=default)
