@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Asit 👋
 
-<!--
-**asitgiri1234/asitgiri1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer who ships — web apps end-to-end, with AI baked in where it's useful.
 
-Here are some ideas to get you started:
+**Stack:** TypeScript · Python · React/Next.js · Node.js · FastAPI · PostgreSQL · MongoDB · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Things I've built
+- **[Joseph's Retreat](repo-link)** — live booking platform for a real client: Razorpay payments, Airbnb calendar sync
+- **[Vanadium](repo-link)** — AI content-intelligence platform with a full RAG pipeline (ChromaDB, embeddings, streaming)
+- **[Insurance Claims API](repo-link)** — FastAPI + PostgreSQL, layered architecture, 26 tests, one-command Docker
+- **[Luna](repo-link)** — offline desktop AI assistant on local Ollama models (Electron + React + TS)
+
+## 📫 Reach me
+[LinkedIn](your-url) · asitkg03@gmail.com
+
+*Currently open to SDE / full-stack roles.*
