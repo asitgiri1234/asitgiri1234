@@ -7,7 +7,7 @@ Full-stack developer who ships — web apps end-to-end, with AI baked in where i
 
 
 ## 📫 Reach me
-[LinkedIn](your-url) · asitkg03@gmail.com
+[LinkedIn](https://www.linkedin.com/in/asit-giri-539070260/) · asitkg03@gmail.com
 
 *Currently open to SDE / full-stack roles.*
 
